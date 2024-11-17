@@ -1,10 +1,9 @@
 package server
 
 import (
+	"log"
 	"net/http"
 	"os"
-
-	"log"
 
 	"github.com/joho/godotenv"
 )

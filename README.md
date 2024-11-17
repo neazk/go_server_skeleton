@@ -1,1 +1,1 @@
-### go skeleton server app
+### go skeleton server app with gin
